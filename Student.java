@@ -1,5 +1,8 @@
 public class Student {
-    String firstName;
-    int age;
-    int height;
+    public run() {}
+        String firstName;
+        int age;
+        int height;
+        System.out.println("hello world");
+    }
 }
