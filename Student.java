@@ -5,5 +5,6 @@ public class Student {
         int height;
         System.out.println("hello world");
         String lastName;
+        int volunteerHours;
     }
 }
