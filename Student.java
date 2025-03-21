@@ -4,5 +4,6 @@ public class Student {
         int age;
         int height;
         System.out.println("hello world");
+        String lastName;
     }
 }
